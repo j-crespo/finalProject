@@ -1,4 +1,4 @@
-# IOT Weather Sensor
+# IOT Weather Station
 
 The project is an internet connected device that communicates weather activity to a light source.
 
